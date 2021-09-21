@@ -1,5 +1,5 @@
 ## About me
-I am a 13 year old self taught programmer. I have done a mix of Node.js, Python, C++ and Lua programming. I have also used the Unreal Engine 4, Godot, and Roblox platforms/engines
+I am a 14 year old self taught programmer. I have done a mix of Node.js, Python, C++ and Lua programming. I have also used the Unreal Engine 4, Godot, and Roblox platforms/engines
 
 ### Stuff I'm proud of
 ---
