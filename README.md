@@ -4,7 +4,7 @@ I am a 14 year old self taught programmer. I have done a mix of Node.js, Python,
 ### Stuff I'm proud of
 ---
 ### Python
-[Wow a multifunctional discord bot that has audio playing capabilities!? No way!](https://github.com/The-Glit-ch/Linda-the-Secretary)
+[An improved and cleaner version of my previous discord bot "Linda the Secretary"](https://github.com/The-Glit-ch/Max)
 
 [Wow a discord bot that has a custom commission system where people can make/edit commissions and other people can accept/cancel those commissions along with a rating system and custom profile?!. No way!!](https://github.com/The-Glit-ch/Artist-Unite-Bot)
 
@@ -14,7 +14,7 @@ I am a 14 year old self taught programmer. I have done a mix of Node.js, Python,
 [Share media without needing a WiFi connection. Works with P2P connection. Also contains a tag system](https://github.com/The-Glit-ch/Fur2Fur)
 
 ### Lua(Roblox Platform)
-[Bloomberg Data in Lego Game APIᵀᴹ || Not finished](https://github.com/The-Glit-ch/Ro-Bloom)
+[Bloomberg Data in Lego Game APIᵀᴹ || Not finished(Discontinued)](https://github.com/The-Glit-ch/Ro-Bloom)
 
 ### C++
 [Its a calculator....its kinda buggy](https://github.com/The-Glit-ch/CPP-Calculator)
