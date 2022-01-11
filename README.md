@@ -1,23 +1,22 @@
 ## About me
-I am a 14 year old self taught programmer. I have done a mix of Node.js, Python, C++ and Lua programming. I have also used the Unreal Engine 4, Godot, and Roblox platforms/engines
-
-### Stuff I'm proud of
+<sup><sub>14 year old self taught programmer, I use arch linux btw</sub></sup>
 ---
-### Python
-[An improved and cleaner version of my previous discord bot "Linda the Secretary"](https://github.com/The-Glit-ch/Max)
 
-[Wow a discord bot that has a custom commission system where people can make/edit commissions and other people can accept/cancel those commissions along with a rating system and custom profile?!. No way!!](https://github.com/The-Glit-ch/Artist-Unite-Bot)
+## Star Projects/Highlights
 
-[A cool thing I made in python that draws an image from an image or a custom data file. (Trust me its fun to use especially in drawing games)](https://github.com/The-Glit-ch/Free-Draw-Bot)
+---
+#### Python
+[A re write of one of my old projects. A very simple but scaleable discord bot that can show server info, moderate users, store specific per server settings and much more. This re write shows much cleaner and optimized code which can easily be read by anyone.](https://github.com/The-Glit-ch/Max)
 
-### Node.js
-[Share media without needing a WiFi connection. Works with P2P connection. Also contains a tag system](https://github.com/The-Glit-ch/Fur2Fur)
+[A simple project that can take an image file or a custom data file and draw it on screen. It uses OpenCV to find lines on a image and then sends that data to the program for it to be drawn.](https://github.com/The-Glit-ch/Free-Draw-Bot) || Demos: [Demo 1](https://www.youtube.com/watch?v=UJzhtRGQvMY) [Demo 2](https://www.youtube.com/watch?v=lRYzwfDA4sM)
 
-### Lua(Roblox Platform)
-[Bloomberg Data in Lego Game APIᵀᴹ || Not finished(Discontinued)](https://github.com/The-Glit-ch/Ro-Bloom)
+---
+#### Godot X Python
 
-### C++
-[Its a calculator....its kinda buggy](https://github.com/The-Glit-ch/CPP-Calculator)
+[A very interesting mini project that allows to turn your phone(Android only) into a drawing tablet. Two seperate binaries are needed. The APK file which turns your phone into a client and the python file which turns your computer into a listen server. Data is sent via websockets from your phone to your pc](https://github.com/The-Glit-ch/MobileTab)
 
-### Godot
-[Turn your phone into a drawing tablet. Pretty neat ngl](https://github.com/The-Glit-ch/MobileTab)
+---
+#### Lua(Roblox Platform)
+[A API Wrapper that uses HTTPS calls to retrieve stock market data and output to a Lua Table which can then be parsed and edited to your liking.](https://github.com/The-Glit-ch/Ro-Bloom)
+
+[A lua script that returns weather data from the given coordinates given. Uses the National Weather Service API to retrieve weather data](https://github.com/The-Glit-ch/Roblox-Weather-Service)
