@@ -2,7 +2,6 @@
 <p align="center"> Self taught programmer </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=The-Glit-ch" alt="Profile Views" /> </p>  
----
 
 ## Star Projects/Highlights
 
